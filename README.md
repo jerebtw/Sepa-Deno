@@ -9,7 +9,7 @@ If you find a problem, please report it
 
 ## Documentation
 
-You can find the [Docs](https://sepa.jerebtw.de/) here
+You can find the [Docs](https://deno.land/x/sepa/mod.ts) here
 
 ## Example
 
