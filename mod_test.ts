@@ -1,5 +1,5 @@
-import { assertEquals } from "https://deno.land/std@0.164.0/testing/asserts.ts";
-import { generateSepaXML } from "./main.ts";
+import { assertEquals } from "https://deno.land/std@0.173.0/testing/asserts.ts";
+import { generateSepaXML } from "./mod.ts";
 
 Deno.test("Check valid xml", () => {
   const xmlResult = generateSepaXML({

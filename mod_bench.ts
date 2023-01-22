@@ -1,4 +1,4 @@
-import { generateSepaXML } from "./main.ts";
+import { generateSepaXML } from "./mod.ts";
 
 Deno.bench("Create valid xml", () => {
   generateSepaXML({
